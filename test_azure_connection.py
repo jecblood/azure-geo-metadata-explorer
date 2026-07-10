@@ -1,9 +1,9 @@
 from sqlalchemy import create_engine
 
-server = "jeff-geo-sql-server.database.windows.net"
-database = "geo_metadata_db"
-username = "jecblood"
-password = "Jfdnfn11!"
+server = "SERVER"
+database = "DATABASE_NAME"
+username = "YOUR_USERNAME"
+password = "YOUR_PASSWORD"
 
 connection_string = (
     f"mssql+pyodbc://{username}:{password}"
