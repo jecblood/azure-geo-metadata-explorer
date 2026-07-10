@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+
+# macOS
+.DS_Store
+
+# Azure credentials
+config.py
+credentials.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.log

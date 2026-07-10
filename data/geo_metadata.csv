@@ -1,0 +1,5 @@
+SampleID,StudyID,Disease,Tissue,Platform
+GSM001,GSE41861,Asthma,Lung,Affymetrix
+GSM002,GSE41861,Control,Lung,Affymetrix
+GSM003,GSE41861,Asthma,Lung,Affymetrix
+GSM004,GSE41861,Control,Lung,Affymetrix
